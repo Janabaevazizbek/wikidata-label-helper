@@ -1,0 +1,18 @@
+/* MediaWiki:Gadget-Label-helper-pagestyles-vector.css */
+/* Barlıq ruxsat etilgen keńisliklerde stiller qatıp turıuı ushın */
+
+.skin-vector #wd-label-helper {
+    display: block;
+    min-height: 1.5em;
+    font-size: 85%;
+    margin-bottom: 0.5em;
+    color: #54595d;
+}
+
+.skin-vector #mw-content-subtitle::after {
+    content: '\200B';
+}
+
+.skin-vector .noarticletext {
+    margin-top: -1.008em;
+}
